@@ -18,11 +18,8 @@ export const useScript = ({ src }) => {
         script.defer = true;
         script.type = "module";
         script.setAttribute('data-status', 'loading')
-        // Add script to document body
         document.body.appendChild(script)
 
-        // Store status in attribute on script
-        // This can be read by other instances of this hook
         const setAttributeFromEvent = (event) => {
           script?.setAttribute(
             'data-status',
