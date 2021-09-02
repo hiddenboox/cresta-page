@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cresta-bot/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/cresta-bot/static/js/main.87750c80.chunk.js",
+    "main.js.map": "/cresta-bot/static/js/main.87750c80.chunk.js.map",
+    "runtime-main.js": "/cresta-bot/static/js/runtime-main.99871daa.js",
+    "runtime-main.js.map": "/cresta-bot/static/js/runtime-main.99871daa.js.map",
+    "static/js/2.0e789adf.chunk.js": "/cresta-bot/static/js/2.0e789adf.chunk.js",
+    "static/js/2.0e789adf.chunk.js.map": "/cresta-bot/static/js/2.0e789adf.chunk.js.map",
+    "static/js/3.fd4081c7.chunk.js": "/cresta-bot/static/js/3.fd4081c7.chunk.js",
+    "static/js/3.fd4081c7.chunk.js.map": "/cresta-bot/static/js/3.fd4081c7.chunk.js.map",
+    "index.html": "/cresta-bot/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/cresta-bot/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.0e789adf.chunk.js.LICENSE.txt": "/cresta-bot/static/js/2.0e789adf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99871daa.js",
+    "static/js/2.0e789adf.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.87750c80.chunk.js"
+  ]
+}
